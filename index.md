@@ -10,18 +10,20 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# DATA SCIENCE PORTFOLIO
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## MACHINE LEARNING
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Fraud Detection
 
+Fraud Detection: Model developed to identify the customers, who are likely to default the payment. 
+
+### Time Series
+
+
+Time Series: Models are developed to study the behaviour of pattern on daily basis or timely basis.
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
